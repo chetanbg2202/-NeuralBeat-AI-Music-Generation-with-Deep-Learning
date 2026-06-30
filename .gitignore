@@ -1,0 +1,19 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/neuralbeat.db
+backend/data/processed/
+backend/models/
+backend/generated/
+backend/uploads/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
